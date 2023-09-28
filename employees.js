@@ -3,7 +3,7 @@ function employees(inputArray) {
     for (let index = 0; index < inputArray.length; index++) {
         let currentPerson = inputArray[index];
 
-        //console.log(`Name: ${currentPerson} -- Personal Number: ${currentPerson.length}`);
+        console.log(`Name: ${currentPerson} -- Personal Number: ${currentPerson.length}`);
     }
 }
 employees(
